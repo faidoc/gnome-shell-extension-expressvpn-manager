@@ -1,0 +1,15 @@
+{
+  "uuid": "expressvpn_manager@faidoc",
+  "shell-version": [
+    "3.14",
+    "3.16",
+    "3.18",
+    "3.20",
+    "3.21",
+    "3.22",
+    "3.24"
+  ],
+  "description": "A status menu for managing ExpressVPN Connections.",
+  "name": "ExpressVPN Manager",
+  "url": "https://github.com/faidoc/gnome-shell-extension-expressvpn-manager"
+}
