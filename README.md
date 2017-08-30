@@ -27,7 +27,8 @@ Please feel free to contribute by sending pull requests or raising issues.
 
 Licensed under the GNU General Public License Version 2. See COPYING for details.
 
-The logo used in this software belongs to ExpressVPN.
+## Logo
+By Fabián Alexis (https://github.com/fabianalexisinostroza/Antu) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
 
 ## Authors
 

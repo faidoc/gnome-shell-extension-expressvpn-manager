@@ -42,7 +42,7 @@ function showNotification (title, message) {
         // We have to prepare this only once
         this._notifSource = new MessageTray.SystemNotificationSource();
         this._notifSource.createIcon = function() {
-            let gicon = Gio.icon_new_for_string(Me.path + "/icons/icon.png");
+            let gicon = Gio.icon_new_for_string(Me.path + "/icons/icon.svg");
             return new St.Icon({ gicon: gicon});
         };
         // Take care of note leaving unneeded sources
