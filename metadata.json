@@ -11,6 +11,6 @@
   ],
   "description": "A status menu for managing ExpressVPN Connections.",
   "name": "ExpressVPN Manager",
-  "url": "https://github.com/faidoc/gnome-shell-extension-expressvpn-manager"
-  "version": "1.0.1"
+  "url": "https://github.com/faidoc/gnome-shell-extension-expressvpn-manager",
+  "version": "1.0.0"
 }
